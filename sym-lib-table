@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATMEGA328P-AN")(type "Legacy")(uri "${KIPRJMOD}/libraries/ATMEGA328P-AN/ATMEGA328P-AN.lib")(options "")(descr ""))
+  (lib (name "DS1337S_")(type "Legacy")(uri "${KIPRJMOD}/libraries/DS1337S_/DS1337S_.lib")(options "")(descr ""))
+)
