@@ -3,7 +3,7 @@
 
 
 
-Microcontroller-Based Data Logger (Personal Project)
+Microcontroller-Based Data Logger.
 
 Designed a 2-layer PCB using KiCad for a microcontroller-based data logging system.
 
